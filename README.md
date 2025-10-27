@@ -47,7 +47,7 @@ What is the relationship between account balance, credit score, and risk?
 Which customer segment offers the best profitability potential?
 
 # Demo
-![Dashboard Preview].(https://github.com/HarshithaNeella/Bank-Segment-Analysis/blob/main/Bank%20segment%20Analysis1.png)
+![Dashboard Preview](https://github.com/HarshithaNeella/Bank-Segment-Analysis/blob/main/Bank%20segment%20Analysis1.png)
 
 
 
